@@ -1,0 +1,483 @@
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #0f3cc9;
+    color: #fff;
+}
+
+body{
+    margin: 0;
+   
+}
+.innerheader1{
+    width: 50%;
+    float: left;
+    
+    height: 80px;
+    text-align: right;
+  
+
+}
+.innerheaderlink{
+    height: 80px; 
+    
+  padding-left: 50px;
+  text-decoration-color: #fff;
+
+
+}
+
+
+.image{
+    width: 50px;
+    height: 50px;
+    padding-left: 15%;
+    margin-top: 12px;
+    float: left;
+}
+.headlink{
+    text-decoration-color: #fff;
+    font-family: JioType,helvetica,arial,sans-serif;
+    float: right;
+    
+    margin-top: 25px;
+    margin-right: 40px;
+    font-weight: 700;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #fff;
+}
+.headlink:hover{
+    color: #8899d3;
+}
+
+
+.headlink2{
+    text-decoration-color: #fff;
+    font-family: JioType,helvetica,arial,sans-serif;
+    float: right;
+    
+    margin-top: 25px;
+    margin-right: 40px;
+    font-weight: 700;
+    font-size: 1rem; 
+    color: #fff;
+}
+.headlink2:hover{
+    color: #8899d3;
+}
+.innerheader2{
+    width: 50%;
+    float: left;
+    height: 80px;
+    text-align: right;
+  
+
+}
+.searchtext{
+    float: left;
+    margin-top: 18px;
+    margin-left: 85px;
+    width: 320px;
+    border-radius: 30px;
+    background-color: rgb(27, 52, 128);
+    height: 36px;
+    text-decoration-color: #fff;
+    border: none;
+    text-align: center;
+    font-size: large;
+    color: #fff;
+   
+    
+}
+::placeholder { 
+    color:#fff;
+    
+
+}
+#firstgap{
+    float: right;
+    width: 56px;
+    height: 69px
+}
+.buttonfist{
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    background-color: unset;
+    border: none; 
+    margin-right: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.buttonfist:hover{
+    background-color: rgb(27, 52, 128);
+}
+.downheader{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(27, 52, 128);;
+    color: #fff;
+
+}
+.downheadlink{
+    text-decoration-color: #fff;
+    font-family: JioType,helvetica,arial,sans-serif;
+    float: left;
+    
+    margin-top: 10px;
+    margin-left: 55px;
+    font-weight: 700;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #fff;
+
+}
+.downheadlink:hover{
+    color: #8899d3;
+}
+
+.img2{
+    margin-left: 6%;
+    margin-top: 40px;
+}
+
+
+.contentimage1{
+    width: 100%;
+    height: 550px;
+   
+}
+.listbutton1{
+    width: 100%;
+    height: 66px;
+    text-align: center;
+    padding-top: 25px;
+
+}
+.textfull{
+    font-family: JioType,helvetica,arial,sans-serif;
+    width:"100%";
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 22px;
+    
+
+}
+.buttons1{
+    
+    width: 120px;
+    height: 44px;
+    font-family: JioType,helvetica,arial,sans-serif;
+    border-radius: 23px;
+    text-align: center;
+    margin-inline: 11px;
+    font-weight: 700;
+    cursor: pointer;
+    color: midnightblue;
+    border-style: bold;
+    border-color: rgb(198, 210, 211);
+    background-color: #fff;
+
+}
+.buttons1:hover{
+    color: #050916;
+    border-color: #1d2d5c;
+}
+.MainCardBox{
+    width: 100%;
+    align-items: center;
+    height: 350px;
+
+
+}
+.Card{
+    background-color:#e7ebf8;
+    width: 30%;
+    height: 350px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+    line-height: 80%;
+    padding-left: 10px;
+    border-radius: 20px;
+
+}
+.img3class{
+    float: left;
+
+   
+}
+
+.moreclass{
+    margin-top: 60px;
+    margin-left: 146px;
+
+}
+#moreclass2{
+    margin-top: 45px;
+    margin-left: 146px;
+
+}
+.td2{
+    padding-left: 42px;
+    line-height: initial;
+}
+.linktext{
+    font-family: JioType,helvetica,arial,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    margin-top: 16px;
+    margin-left: 60px;
+    text-decoration: none;
+}
+.linktext:hover{
+    color: #8295d6;
+}
+
+
+
+.buttons2{
+    width: 120px;
+    height: 44px;
+    font-weight: 700;
+    border-radius: 23px;
+    background: #0f3cc9;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: rgb(242, 242, 248);
+    cursor: pointer;
+    border: none;
+}
+.buttons2:hover{
+    color: #fff;
+    background: rgb(15, 15, 104);
+}
+.buttonviewplandiv{
+    clear: both;
+    width: 100%;
+    height: 100px;
+    margin-top: 30px;
+}
+.buttonviewplan{
+    margin-left: 50px;
+    width: 120px;
+    height: 44px;
+    font-weight: 700;
+    border-radius: 23px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: midnightblue;
+    border-style: bold;
+    border-color: rgb(198, 210, 211);
+    background-color: #fff;
+}
+.buttonviewplan:hover{
+    color: #050916;
+    border-color: #1d2d5c;
+
+}
+.imagesale{
+    width: 300px;
+    height: 340px;
+}
+.Card2{
+    background-color:#fff;
+    width: 30%;
+    height: 350px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+    line-height: 80%;
+    padding-left: 10px;
+    border-radius: 20px;
+
+}
+.Card3{
+    background-color:#fff;
+    width: 30%;
+    height: 530px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+    line-height: 80%;
+    padding-left: 10px;
+    border-radius: 20px;
+
+}
+.imgjio{
+    float: left;
+    width: 46px;
+
+}
+.iconmyjio{
+    float: left;
+}
+.paragraphclear{
+    clear: both;
+}
+.paragrh{
+    font-size: larger;
+    font-family: JioType,helvetica,arial,sans-serif;
+    line-height: 21px;
+
+
+}
+.lastcardbutton{
+    width: 120px;
+    height: 44px;
+    font-weight: 700;
+    border-radius: 23px;
+    background: #0f3cc9;;
+    margin-left: 10px;
+    color: rgb(242, 242, 248);
+    float: left;
+    border: none;
+    cursor: pointer;
+}
+.lastcardbutton:hover{
+   background:midnightblue ;
+    border-color: #1d2d5c;
+}
+
+.lastcardbutton2{
+    margin-left: 40px;
+    width: 120px;
+    height: 44px;
+    font-weight: bold;
+    border-radius: 23px;
+    border: none;
+    color:  rgb(15, 15, 104);
+    background: #fff;
+    cursor: pointer;
+    font-size: unset;
+
+}
+.lastcardbutton2:hover{
+    color: #050916;
+    background: #dbe2f7;
+}
+.lastphtos{
+    
+    height: 360px;
+    padding-left:5%;
+}
+.lastphtosfirst{
+    width: 600px;
+    height: 300px;
+    float: left;
+    
+    
+}
+.lastlistdiv{
+    width: 100%;
+    height: 530px;
+    background-color: #e7ebf8;
+    padding-top: 50px;
+}
+.lastsection1{
+    width: 200px;
+    height: 457px;
+    margin-left: 20px;
+    float: left;
+   
+}
+.lasttopper{
+    width: 200px;
+    height: 53px;
+    font-weight: bold;
+    font-size: 18px
+
+}
+.lastbelow{
+    width: 200px;
+    height: 30px;
+   cursor: pointer;
+   padding-top: 9px;
+   
+   
+
+}
+.lastbelow:hover{
+    background-color: aliceblue;
+}
+.lastsectionlast{
+    width: 250px;
+    height: 457px;
+    margin-left: 30px;
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 40px;
+    font-family: JioType,helvetica,arial,sans-serif;
+}
+.lastbutton{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: #0f3cc9;
+    border: none;
+    cursor: pointer;
+}
+.lastbutton:hover{
+    background-color: #8295d6;
+}
+.playstore{
+    width: 100px;
+}
+.buttonapple{
+    float: left;
+    border: none;
+    cursor: pointer;
+
+}
+
+#imglast{
+    width: 35px;
+    height: 35px;
+    padding-left: 5%;
+    margin-top: 5px;
+    float: left;
+    border-radius: 22px;
+    
+}
+#lasttext{
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    
+}
+#gapsection{
+    width: 65px;
+    height:457px ;
+    float: left;
+}
+#footer{
+    float: left;
+    width: 100%;
+    height: 75px;
+    background-color: #e7ebf8;
+
+}
+#ulidlast{
+    list-style-type: none;
+    margin-right: 90px;
+
+}
+.lastlist{
+    float: right;
+    display: block;
+    padding-right: 20px;
+    padding-top: 7px
+}
+.footerlink{
+    text-decoration: none;
+    cursor: pointer;
+    color: #8899d3;
+    font-size: small;
+}
+.footerlink:hover{
+    color: #1a213a;
+}
+
